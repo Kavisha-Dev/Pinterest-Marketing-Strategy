@@ -210,43 +210,31 @@ Need help with any specific step? Let me know and I'll provide more detailed ins
 
 ### Day 1 (Setup Day) - 11:30 AM - 2:30 PM IST
 #### Pinterest Business Account Setup (45 mins)
-[ ] Create Pinterest Business Account (15 mins)
-    [ ] Go to business.pinterest.com
-    [ ] Fill in business details
-    [ ] Add profile picture
-    [ ] Write business description
-[ ] Verify website (15 mins)
-    [ ] Add meta tag to website
-    [ ] Submit for verification
-    [ ] Check verification status
-[ ] Enable Rich Pins (10 mins)
-    [ ] Add required meta tags
-    [ ] Validate Rich Pins
-[ ] Set up Pinterest Analytics (5 mins)
-    [ ] Enable tracking
-    [ ] Set up dashboard
+- [ ] Create Pinterest Business Account (15 mins)
+    - [ ] Go to business.pinterest.com
+    - [ ] Fill in business details
+    - [ ] Add profile picture
+    - [ ] Write business description
+- [ ] Verify website (15 mins)
+    - [ ] Add meta tag to website
+    - [ ] Submit for verification
+    - [ ] Check verification status
+- [ ] Enable Rich Pins (10 mins)
+    - [ ] Add required meta tags
+    - [ ] Validate Rich Pins
+- [ ] Set up Pinterest Analytics (5 mins)
+    - [ ] Enable tracking
+    - [ ] Set up dashboard
 
 #### Board Creation (45 mins)
-[ ] Create "2025 Goal Planning" board (9 mins)
-    [ ] Create board
-    [ ] Copy-paste optimized description
-    [ ] Set cover image
-[ ] Create "Notion Templates & Tips" board (9 mins)
-    [ ] Create board
-    [ ] Copy-paste optimized description
-    [ ] Set cover image
-[ ] Create "Monthly Challenge Ideas" board (9 mins)
-    [ ] Create board
-    [ ] Copy-paste optimized description
-    [ ] Set cover image
-[ ] Create "Habit Tracking Systems" board (9 mins)
-    [ ] Create board
-    [ ] Copy-paste optimized description
-    [ ] Set cover image
-[ ] Create "Digital Planning Tools" board (9 mins)
-    [ ] Create board
-    [ ] Copy-paste optimized description
-    [ ] Set cover image
+- [ ] Create "2025 Goal Planning" board (9 mins)
+    - [ ] Create board
+    - [ ] Copy-paste optimized description
+    - [ ] Set cover image
+- [ ] Create "Notion Templates & Tips" board (9 mins)
+    - [ ] Create board
+    - [ ] Copy-paste optimized description
+    - [ ] Set cover image
 
 #### Brand Setup (30 mins)
 - [ ] Create Canva account (5 mins)
