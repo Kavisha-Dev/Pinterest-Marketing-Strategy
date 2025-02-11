@@ -1,4 +1,6 @@
-# Monthly Challenge Tracker - Week 2 Plan
+# Monthly Challenge Tracker - Week 2 Strategy
+
+[← Week 1](MCT%20Week%201.md) | [Back to README](README.md) | [Checklist](Checklist/MCT%20Checklist.md)
 
 ## Quick Summary
 

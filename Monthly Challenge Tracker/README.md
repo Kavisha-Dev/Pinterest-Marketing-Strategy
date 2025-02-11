@@ -2,6 +2,11 @@
 
 This repository contains the complete Pinterest marketing strategy for the Monthly Challenge Tracker Notion template.
 
+## Quick Links
+- [Week 1 Strategy](MCT%20Week%201.md)
+- [Week 2 Strategy](MCT%20Week%202.md)
+- [Implementation Checklist](Checklist/MCT%20Checklist.md)
+
 ## Repository Structure
 
 ```

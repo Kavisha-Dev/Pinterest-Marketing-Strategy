@@ -1,5 +1,7 @@
 # Monthly Challenge Tracker - Pinterest Marketing Plan
 
+[← Back to README](README.md) | [Week 2 →](MCT%20Week%202.md) | [Checklist](Checklist/MCT%20Checklist.md)
+
 ## Quick Summary
 
 ### Board & Pin Strategy
@@ -10,8 +12,8 @@
 | Notion Templates & Tips| Main template showcase  | • Template Overview Pin<br>• Tutorial Pin|
 | 2025 Goal Planning     | Goal setting focus       | • Feature Showcase Pin                  |
 | Monthly Challenge Ideas| Challenge inspiration    | • Value Proposition Pin                 |
-| Habit Tracking Systems | Tracking methods         | *(Week 2 content)*                      |
-| Digital Planning Tools | Tool collection          | *(Week 2 content)*                      |
+| Habit Tracking Systems | Tracking methods         | *(MCT Week 2 content)*                      |
+| Digital Planning Tools | Tool collection          | *(MCT Week 2 content)*                      |
 
 #### Week 1 Pin Schedule
 | Day | Pin Type           | Target Board            | Focus                  |

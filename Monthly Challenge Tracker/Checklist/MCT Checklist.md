@@ -1,5 +1,7 @@
 # Monthly Challenge Tracker - Implementation Checklist
 
+[← Back to README](../README.md) | [Week 1](../MCT%20Week%201.md) | [Week 2](../MCT%20Week%202.md)
+
 ### Day 1 (Setup Day) - 11:30 AM - 2:30 PM IST
 #### Pinterest Business Account Setup (45 mins)
 - [ ] Create Pinterest Business Account (15 mins)
@@ -21,27 +23,27 @@
 #### Board Creation (45 mins)
 - [ ] Create "Notion Templates & Tips" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description from strategy doc
+    - [ ] Copy-paste optimized description from MCT Week 1.md
     - [ ] Set cover image
     - [ ] Note: Will contain Template Overview & Tutorial pins
 - [ ] Create "2025 Goal Planning" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description from strategy doc
+    - [ ] Copy-paste optimized description from MCT Week 1.md
     - [ ] Set cover image
     - [ ] Note: Will contain Feature Showcase pin
 - [ ] Create "Monthly Challenge Ideas" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description from strategy doc
+    - [ ] Copy-paste optimized description from MCT Week 1.md
     - [ ] Set cover image
     - [ ] Note: Will contain Value Proposition pin
 - [ ] Create "Habit Tracking Systems" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description from strategy doc
+    - [ ] Copy-paste optimized description from MCT Week 1.md
     - [ ] Set cover image
     - [ ] Note: For Week 2 content
 - [ ] Create "Digital Planning Tools" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description from strategy doc
+    - [ ] Copy-paste optimized description from MCT Week 1.md
     - [ ] Set cover image
     - [ ] Note: For Week 2 content
 
