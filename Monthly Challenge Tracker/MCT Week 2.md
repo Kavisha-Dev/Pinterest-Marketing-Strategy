@@ -303,23 +303,106 @@ Start tracking today - Just $2.99!
 
 ## Phase 3: Analytics & Optimization
 
-### 1. Key Metrics to Track
-- Pin save rates
-- Click-through rates
-- Website traffic
-- Conversion rates
+### 1. Key Metrics Dashboard
+| Metric Category | KPI                | Target        | Measurement Method     |
+|----------------|-------------------|---------------|----------------------|
+| Pin Performance| Save rate         | >50 saves/pin | Pinterest Analytics    |
+|                | Click-through rate| >5% CTR       | Pinterest Analytics    |
+|                | Engagement rate   | >3%           | (Saves + Clicks) / Impressions |
+| Traffic        | Website visits    | >100/day      | Google Analytics       |
+|                | Bounce rate      | <60%          | Google Analytics       |
+|                | Time on page     | >2 mins       | Google Analytics       |
+| Conversion     | Template views   | >50/day       | Gumroad Analytics      |
+|                | Sales conversion | >2%           | Sales / Template views |
+|                | Revenue         | >$50/week     | Gumroad Dashboard      |
 
-### 2. Weekly Goals
-- Increase engagement by 25%
-- 100+ saves per pin
-- 50+ clicks per pin
-- First sales generation
+### 2. Weekly Performance Tracking
+```
+METRICS TRACKING SCHEDULE
+------------------------------------------
+Daily Checks (8:00 PM IST):
+• Pin saves & clicks
+• Website traffic
+• New sales
+• Engagement metrics
 
-### 3. Week 3 Preparation
-- Analyze performance data
-- Plan content variations
-- Prepare video content
-- Design seasonal pins
+Weekly Analysis (Sunday):
+• Best performing pins
+• Traffic sources
+• Conversion rates
+• Revenue report
+------------------------------------------
+```
+
+### 3. Optimization Checklist
+#### Pin Performance
+- [ ] Identify top 3 performing pins
+    - [ ] Analyze common elements
+    - [ ] Note best posting times
+    - [ ] Track hashtag performance
+- [ ] Review underperforming pins
+    - [ ] Update descriptions
+    - [ ] Refresh images
+    - [ ] Test new CTAs
+
+#### Traffic Analysis
+- [ ] Track traffic sources
+    - [ ] Direct Pinterest traffic
+    - [ ] Group board referrals
+    - [ ] Cross-promotion results
+- [ ] Monitor user behavior
+    - [ ] Page navigation paths
+    - [ ] Exit pages
+    - [ ] Time on site
+
+#### Sales Funnel
+- [ ] Analyze conversion path
+    - [ ] Pin → Website → Gumroad
+    - [ ] Drop-off points
+    - [ ] Purchase triggers
+- [ ] Test price points
+    - [ ] Regular price ($4.99)
+    - [ ] Sale price ($2.99)
+    - [ ] Bundle offers
+
+### 4. Weekly Report Template
+```
+WEEK 2 PERFORMANCE REPORT
+
+1. Pin Metrics
+   • Total Impressions: 
+   • Total Saves: 
+   • Total Clicks: 
+   • Best Performing Pin: 
+   • Best Posting Time: 
+
+2. Traffic Metrics
+   • Total Visitors: 
+   • Avg. Time on Site: 
+   • Top Traffic Source: 
+   • Mobile vs Desktop: 
+
+3. Sales Metrics
+   • Total Sales: 
+   • Conversion Rate: 
+   • Average Order Value: 
+   • Best Converting Pin: 
+
+4. Action Items
+   • What worked: 
+   • What didn't: 
+   • Next week focus: 
+   • Tests to run: 
+```
+
+### 5. A/B Testing Plan
+| Element | Test A | Test B | Duration | Success Metric |
+|---------|--------|--------|----------|----------------|
+| Pin Title | Feature-focused | Benefit-focused | 3 days | CTR |
+| CTA | "Get Template" | "Start Now" | 3 days | Clicks |
+| Price Display | "$2.99" | "Only $2.99" | 3 days | Conversions |
+| Images | Screenshot | Lifestyle | 3 days | Saves |
+| Description | Short | Detailed | 3 days | Engagement |
 
 ## Next Steps:
 1. [ ] Create all 6 pins
