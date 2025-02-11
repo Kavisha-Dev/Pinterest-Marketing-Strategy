@@ -19,26 +19,31 @@
     - [ ] Set up dashboard
 
 #### Board Creation (45 mins)
-- [ ] Create "2025 Goal Planning" board (9 mins)
+- [ ] Create "Notion Templates & Tips" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description
+    - [ ] Copy-paste optimized description from strategy doc
     - [ ] Set cover image
-- [ ] Create "Notion Templates & Tips" board (9 mins)
+    - [ ] Note: Will contain Template Overview & Tutorial pins
+- [ ] Create "2025 Goal Planning" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description
+    - [ ] Copy-paste optimized description from strategy doc
     - [ ] Set cover image
-- [ ] Create "Monthly Challenge Ideas" board (9 mins)
+    - [ ] Note: Will contain Feature Showcase pin
+- [ ] Create "Monthly Challenge Ideas" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description
+    - [ ] Copy-paste optimized description from strategy doc
     - [ ] Set cover image
-- [ ] Create "Habit Tracking Systems" board (9 mins)
+    - [ ] Note: Will contain Value Proposition pin
+- [ ] Create "Habit Tracking Systems" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description
+    - [ ] Copy-paste optimized description from strategy doc
     - [ ] Set cover image
-- [ ] Create "Digital Planning Tools" board (9 mins)
+    - [ ] Note: For Week 2 content
+- [ ] Create "Digital Planning Tools" board
     - [ ] Create board
-    - [ ] Copy-paste optimized description
+    - [ ] Copy-paste optimized description from strategy doc
     - [ ] Set cover image
+    - [ ] Note: For Week 2 content
 
 #### Brand Setup (30 mins)
 - [ ] Create Canva account (5 mins)
@@ -46,8 +51,11 @@
     - [ ] Choose business plan
 - [ ] Set up Brand Kit (15 mins)
     - [ ] Add primary color #2E75B5
-    - [ ] Add secondary colors
-    - [ ] Set up font pairs
+    - [ ] Add secondary color #FFFFFF
+    - [ ] Add text color #000000
+    - [ ] Set up font pairs:
+        - [ ] Headlines: Helvetica Neue Bold
+        - [ ] Body: Open Sans Regular
 - [ ] Upload/create logo (5 mins)
 - [ ] Save font combinations (5 mins)
 
@@ -79,60 +87,31 @@
 
 ### Day 3 (First Pins) - 11:30 AM - 2:30 PM IST
 #### Pin Creation (120 mins)
-- [ ] Create Template Overview Pin (40 mins)
-    - [ ] Set up canvas size
+- [ ] Create Template Overview Pin for Notion Templates & Tips board (40 mins)
+    - [ ] Set up canvas size (1000 x 1500px)
     - [ ] Add background image
     - [ ] Add text overlays
     - [ ] Place CTA
     - [ ] Add branding elements
-- [ ] Create Feature Showcase Pin (40 mins)
+- [ ] Create Feature Showcase Pin for 2025 Goal Planning board (40 mins)
     - [ ] Choose feature screenshots
     - [ ] Create split layout
     - [ ] Add benefit text
     - [ ] Place CTA
-- [ ] Create Value Proposition Pin (40 mins)
+- [ ] Create Value Proposition Pin for Monthly Challenge Ideas board (40 mins)
     - [ ] Set up before/after layout
     - [ ] Add transformation elements
     - [ ] Place testimonials
     - [ ] Add pricing CTA
 
-#### Pin Descriptions
-- [ ] Write Template Overview description
-- [ ] Write Feature Showcase description
-- [ ] Write Value Proposition description
-- [ ] Save hashtag sets
-
-### Day 4 (Launch Day) - 11:30 AM - 1:30 PM IST
-#### Launch Activities
-- [ ] Post Template Overview Pin (11:30 AM - 1:30 PM)
-- [ ] Set up Pinterest Analytics dashboard
-- [ ] Create tracking spreadsheet
-- [ ] Follow 20 relevant accounts
-- [ ] Join 2-3 group boards
-
-### Day 5 (Content) - 11:30 AM - 1:30 PM IST
-#### Content Creation & Posting
-- [ ] Create next week's pin designs
-- [ ] Post Feature Showcase pin
-- [ ] Engage with 10 similar pins
-- [ ] Check first pin's 24-hour performance
-- [ ] Note engagement patterns
-
-### Day 6 (Optimization) - 11:30 AM - 1:30 PM IST
-#### Analysis & Adjustment
-- [ ] Post Value Proposition pin
-- [ ] Review pin performance metrics
-- [ ] Create 2 pin variations for testing
-- [ ] Document what's working
-- [ ] Adjust strategy if needed
-
-### Day 7 (Review & Plan) - 11:30 AM - 1:30 PM IST
-#### Weekly Review
-- [ ] Compile week's performance data
-- [ ] Create next week's content calendar
-- [ ] Prepare pin templates for week 2
-- [ ] Set goals for week 2
-- [ ] Plan content themes
+### Week 1 Posting Schedule (11:30 AM - 1:30 PM IST daily)
+- [ ] MON: Post Template Overview Pin to Notion Templates & Tips board
+- [ ] TUE: Community engagement & follow relevant accounts
+- [ ] WED: Post Feature Showcase Pin to 2025 Goal Planning board
+- [ ] THU: Join group boards & engage with community
+- [ ] FRI: Post Value Proposition Pin to Monthly Challenge Ideas board
+- [ ] SAT: Review analytics & plan adjustments
+- [ ] SUN: Post Tutorial Pin to Notion Templates & Tips board
 
 ### Daily Tasks
 #### Morning (11:30 AM - 12:30 PM)
@@ -150,9 +129,14 @@
 - [ ] Note successful pins
 - [ ] Plan next day's tasks
 
-### Week 1 Success Metrics
-- [ ] 5 boards created and optimized
-- [ ] 3 pins published
-- [ ] Analytics tracking set up
-- [ ] Initial engagement metrics recorded
-- [ ] Week 2 templates prepared 
+### Success Metrics Tracking
+- [ ] Set up tracking spreadsheet for:
+    - [ ] Pin saves
+    - [ ] Click-through rates
+    - [ ] Conversion rates
+    - [ ] Revenue generated
+- [ ] Monitor best performing:
+    - [ ] Pin designs
+    - [ ] Descriptions
+    - [ ] Posting times
+    - [ ] Board engagement 
